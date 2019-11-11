@@ -39,6 +39,7 @@ data.head()
 
 
 
+
 ###############Data_Preprocessing###################################3       
 categorical_features = ['protocol_type','service','flag','land','logged_in',\
                                         'is_host_login','is_guest_login']
